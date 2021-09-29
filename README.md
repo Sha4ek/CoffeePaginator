@@ -28,9 +28,9 @@ Bot = commands.Bot(command_prefix='^')
 @Bot.command()
 async def test(ctx):
     emb1 = disnake.Embed(title='1 страница')
-    emb2 = disnake.Embed(title='1 страница')
-    emb3 = disnake.Embed(title='1 страница')
-    emb4 = disnake.Embed(title='1 страница')
+    emb2 = disnake.Embed(title='2 страница')
+    emb3 = disnake.Embed(title='3 страница')
+    emb4 = disnake.Embed(title='4 страница')
     
     embs = [emb1, emb2, emb3, emb4]
     message = await ctx.send(embed=emb1)
