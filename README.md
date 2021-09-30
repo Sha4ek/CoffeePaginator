@@ -3,6 +3,7 @@
 
 ### Поддержка
 [Sha4ek#3306](https://discord.com/users/546502974499717122)
+
 [CoffeeTeam](https://discord.gg/XFZeyJA8uv)
 
 ### Установка
