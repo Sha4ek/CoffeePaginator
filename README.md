@@ -5,7 +5,7 @@
 Простой модуль для создания страниц на [Disnake](https://github.com/EQUENOS/disnake)
 
 ### Поддержка
-[Sha4ek#3306](https://discord.com/users/546502974499717122)
+[Sha4ek#5949](https://discord.com/users/546502974499717122)
 
 ### Установка
 ```py
